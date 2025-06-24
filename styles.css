@@ -1,0 +1,23 @@
+body {
+  background-color: lightgrey;
+}
+
+header {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-large;
+  color: white;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+}
+a {
+  text-decoration: none;
+}
+
+
+p{
+  color: aliceblue;
+  display: block;
+}
